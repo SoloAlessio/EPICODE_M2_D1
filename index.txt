@@ -1,0 +1,24 @@
+EPICODE - M2-D1
+__________________________________________________
+
+Risposte alle domande di teoria:
+
+
+1_ Cos'è un algoritmo? prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica?
+
+   - Un algoritmo è un insieme di passaggi che servono per ottenere un determinato risultato.
+
+--------------------------------------------------
+
+2_ Cos'è una variabile? prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica?
+
+   - Una variabile è un dato che viene dichiarato è che può assumere un determinato valore. 
+
+--------------------------------------------------
+
+3_ undefined e null sono la stessa cosa?
+
+    - undefined e null non sono la stessa cosa, infatti undefined vuol dire che un determinato dato non è stato definito all'interno del codice e quindi non può assumere nessun valore, 
+      a differenza di un output null che sta a significare che il dato è stato dichiarato ma non ha nessun tipo di valore.
+
+--------------------------------------------------
